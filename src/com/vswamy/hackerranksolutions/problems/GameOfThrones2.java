@@ -72,6 +72,7 @@ public class GameOfThrones2 implements Problem
             for (int i = 0; i < curvalue; i++)
             {
                 returnvalue = returnvalue * curkey;
+                returnvalue %= (1000000000 + 7);
             }
         }
         return returnvalue;
