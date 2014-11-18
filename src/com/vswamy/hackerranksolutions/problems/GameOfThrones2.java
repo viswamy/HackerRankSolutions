@@ -8,9 +8,8 @@ import com.vswamy.hackerranksolutions.interfaces.Problem;
 import com.vswamy.hackerranksolutions.utils.PrimeNumberUtil;
 
 /**
- * @author vswamy Problem statement:
- *         https://www.hackerrank.com/contests/july13/challenges
- *         /game-of-throne-ii
+ * @author vswamy 
+ * Problem statement: https://www.hackerrank.com/contests/july13/challenges/game-of-throne-ii
  */
 
 public class GameOfThrones2 implements Problem

@@ -11,7 +11,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Problem problem = new GameOfThrones2();
+        Problem problem = new IsFibo();
         problem.run();
         return;
     }
