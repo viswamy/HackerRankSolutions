@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 import com.vswamy.hackerranksolutions.interfaces.Problem;
 
+/**
+ * @author vswamy
+ * Problem statement: https://www.hackerrank.com/challenges/is-fibo
+ */
+
 public class IsFibo implements Problem
 {
 

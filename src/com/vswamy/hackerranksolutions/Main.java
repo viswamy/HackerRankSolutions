@@ -11,7 +11,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Problem problem = new IsFibo();
+        Problem problem = new FindDigits();
         problem.run();
         return;
     }
