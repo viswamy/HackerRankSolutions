@@ -12,7 +12,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Problem problem = new FindDigits();
+        Problem problem = new UtopianTree();
         problem.run();
         return;
     }
