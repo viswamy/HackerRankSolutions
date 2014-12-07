@@ -12,7 +12,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Problem problem = new UtopianTree();
+        Problem problem = new MaximizeXOR();
         problem.run();
         return;
     }
