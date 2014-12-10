@@ -12,7 +12,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Problem problem = new AlternatingCharacters();
+        Problem problem = new LoveLetterMystery();
         problem.run();
         return;
     }
