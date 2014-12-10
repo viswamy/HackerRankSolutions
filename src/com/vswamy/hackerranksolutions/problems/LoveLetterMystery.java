@@ -6,7 +6,7 @@ import com.vswamy.hackerranksolutions.interfaces.Problem;
 
 /**
  * @author vswamy
- * @Problem statement: https://www.hackerrank.com/challenges/maximizing-xor
+ * @Problem statement: https://www.hackerrank.com/challenges/the-love-letter-mystery
  */
 
 public class LoveLetterMystery implements Problem

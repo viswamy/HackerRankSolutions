@@ -12,7 +12,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Problem problem = new LoveLetterMystery();
+        Problem problem = new AngryChildren();
         problem.run();
         return;
     }
