@@ -13,7 +13,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Problem problem = new LonelyInteger();
+        Problem problem = new IcecreamParlor();
         problem.run();
         return;
     }
