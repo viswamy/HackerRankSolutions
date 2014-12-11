@@ -1,7 +1,7 @@
 package com.vswamy.hackerranksolutions;
 
 import com.vswamy.hackerranksolutions.interfaces.Problem;
-import com.vswamy.hackerranksolutions.problems.*;
+import com.vswamy.hackerranksolutions.problems.warmup.*;
 
 /**
  * @author vswamy 

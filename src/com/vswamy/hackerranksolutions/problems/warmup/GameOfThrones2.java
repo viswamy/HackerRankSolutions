@@ -1,4 +1,4 @@
-package com.vswamy.hackerranksolutions.problems;
+package com.vswamy.hackerranksolutions.problems.warmup;
 
 import java.util.Collection;
 import java.util.HashMap;
