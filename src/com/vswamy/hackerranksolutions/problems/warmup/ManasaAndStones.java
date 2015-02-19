@@ -18,7 +18,7 @@ public class ManasaAndStones implements Problem
     public void run()
     {
         Scanner scanner = new Scanner(System.in);
-        int numberOfTestCases = scanner.nextInt();scanner.nextLine();
+        int numberOfTestCases = scanner.nextInt();
         for(int i = 0; i < numberOfTestCases; i++)
         {
             int numberOfStones = scanner.nextInt();
