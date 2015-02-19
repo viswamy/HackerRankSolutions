@@ -8,7 +8,7 @@ import com.vswamy.hackerranksolutions.interfaces.Problem;
  * @author vswamy
  * @Problem statement: https://www.hackerrank.com/challenges/filling-jars
  */
-//Incorrect solution.. 
+
 public class FillingJars implements Problem
 {
 
@@ -25,7 +25,7 @@ public class FillingJars implements Problem
             long a = scanner.nextLong();
             long b = scanner.nextLong();
             long value = scanner.nextLong();
-            totalValue += (value) * (b - a + 1) / n ;
+            totalValue += (1.0 * value) * (b - a + 1) / n ;
         }
         System.out.println((long)totalValue);
     }
