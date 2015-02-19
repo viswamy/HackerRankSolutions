@@ -25,7 +25,7 @@ public class HalloweenParty implements Problem
         return;
     }
 
-    long maximumNumPieces(long x)
+    private long maximumNumPieces(long x)
     {
         long firsthalf = x / 2;
         long secondhalf = x - firsthalf;
