@@ -13,7 +13,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Problem problem = new HalloweenParty();
+        Problem problem = new SherlockAndSquares();
         problem.run();
         return;
     }
